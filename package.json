@@ -1,0 +1,19 @@
+{
+  "name": "checkout-engin",
+  "version": "1.0.0",
+  "description": "We are starting an electronics store. You have been asked to build the checkout system. We will start with the following products in our catalogue-",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutvij-fsd/checkout-engin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rutvij-fsd/checkout-engin/issues"
+  },
+  "homepage": "https://github.com/rutvij-fsd/checkout-engin#readme"
+}
